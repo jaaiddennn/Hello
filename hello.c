@@ -1,5 +1,5 @@
 /**
- * Author: jaiden holbert, Osama Al Sabahi
+ * Author: jaiden holbert
  * Date: 2019/08/27
  *
  * A simple hello world program in C
